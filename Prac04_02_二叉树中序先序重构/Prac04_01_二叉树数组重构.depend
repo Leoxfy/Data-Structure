@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1636123077 source:c:\users\86133\desktop\prac04_01_二叉树重构\main.cpp
+	<iostream>
+	<queue>
+
+1636123108 source:c:\users\86133\desktop\data structure\实习\prac04_02_二叉树中序先序重构\main.cpp
+	<iostream>
+	<queue>
+

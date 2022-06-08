@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1601171367 source:g:\code\linkedstack\main.cpp
+	<iostream>
+	<fstream>
+	<cassert>
+
+1633243141 source:c:\users\86133\desktop\data structure\作业\08ds_linkedstack\linkedstack\main.cpp
+	<iostream>
+	<fstream>
+	<cassert>
+
+1633243141 source:c:\users\86133\desktop\data structure\作业\08ds_linkedstackwithouthesd\linkedstack\main.cpp
+	<iostream>
+	<fstream>
+	<cassert>
+

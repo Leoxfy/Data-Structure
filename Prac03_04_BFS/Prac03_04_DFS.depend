@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634655246 source:c:\users\86133\desktop\prac03_04_bfs\main.cpp
+	<iostream>
+	<queue>
+

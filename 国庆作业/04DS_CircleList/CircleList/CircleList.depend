@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600910912 source:g:\code\circlelist\main.cpp
+	<iostream>
+	<cassert>
+	<fstream>
+
+1633360392 source:c:\users\86133\desktop\data structure\ื๗าต\04ds_circlelist\circlelist\main.cpp
+	<iostream>
+	<cassert>
+	<fstream>
+

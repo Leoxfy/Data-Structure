@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1636943582 source:c:\users\86133\desktop\prac04_05_¹ş·òÂü±àÂë\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<map>
+	<stack>
+	<string>
+	<algorithm>
+

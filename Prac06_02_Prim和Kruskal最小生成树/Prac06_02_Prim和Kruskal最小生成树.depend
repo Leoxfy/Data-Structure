@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639209660 source:c:\users\86133\desktop\prac06_02_prim和kruskal最小生成树\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<algorithm>
+

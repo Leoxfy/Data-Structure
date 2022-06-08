@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1632672361 source:c:\users\86133\desktop\data structure\作业\02ds_singlelinkedlist\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1633351608 source:c:\users\86133\desktop\data structure\作业\02ds_singlelinkedlistwithhead\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

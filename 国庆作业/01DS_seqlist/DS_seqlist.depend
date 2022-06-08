@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1631882704 source:c:\users\86133\desktop\ds_seqlist\main.cpp
+	<iostream>
+	<cassert>
+	<cstdlib>
+	<ctime>
+
+1631883183 source:c:\users\86133\desktop\data structure\ds_seqlist\main.cpp
+	<iostream>
+	<cassert>
+	<cstdlib>
+	<ctime>
+
+1632672384 source:c:\users\86133\desktop\data structure\ื๗าต\01ds_seqlist\main.cpp
+	<iostream>
+	<cassert>
+	<cstdlib>
+	<ctime>
+

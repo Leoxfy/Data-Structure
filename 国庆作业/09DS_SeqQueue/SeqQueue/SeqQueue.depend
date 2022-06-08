@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1601859521 source:g:\code\seqqueue\main.cpp
+	<iostream>
+	<fstream>
+	<cassert>
+
+1633245506 source:c:\users\86133\desktop\data structure\ื๗าต\09ds_seqqueue\seqqueue\main.cpp
+	<iostream>
+	<fstream>
+	<cassert>
+
